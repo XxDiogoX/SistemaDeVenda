@@ -1,0 +1,14 @@
+C:\Exercicios C#\SistemaVenda\SistemaVenda\bin\Debug\netcoreapp3.1\SistemaVenda.exe
+C:\Exercicios C#\SistemaVenda\SistemaVenda\bin\Debug\netcoreapp3.1\SistemaVenda.deps.json
+C:\Exercicios C#\SistemaVenda\SistemaVenda\bin\Debug\netcoreapp3.1\SistemaVenda.runtimeconfig.json
+C:\Exercicios C#\SistemaVenda\SistemaVenda\bin\Debug\netcoreapp3.1\SistemaVenda.runtimeconfig.dev.json
+C:\Exercicios C#\SistemaVenda\SistemaVenda\bin\Debug\netcoreapp3.1\SistemaVenda.dll
+C:\Exercicios C#\SistemaVenda\SistemaVenda\bin\Debug\netcoreapp3.1\SistemaVenda.pdb
+C:\Exercicios C#\SistemaVenda\SistemaVenda\obj\Debug\netcoreapp3.1\SistemaVenda.csproj.AssemblyReference.cache
+C:\Exercicios C#\SistemaVenda\SistemaVenda\obj\Debug\netcoreapp3.1\SistemaVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercicios C#\SistemaVenda\SistemaVenda\obj\Debug\netcoreapp3.1\SistemaVenda.AssemblyInfoInputs.cache
+C:\Exercicios C#\SistemaVenda\SistemaVenda\obj\Debug\netcoreapp3.1\SistemaVenda.AssemblyInfo.cs
+C:\Exercicios C#\SistemaVenda\SistemaVenda\obj\Debug\netcoreapp3.1\SistemaVenda.csproj.CoreCompileInputs.cache
+C:\Exercicios C#\SistemaVenda\SistemaVenda\obj\Debug\netcoreapp3.1\SistemaVenda.dll
+C:\Exercicios C#\SistemaVenda\SistemaVenda\obj\Debug\netcoreapp3.1\SistemaVenda.pdb
+C:\Exercicios C#\SistemaVenda\SistemaVenda\obj\Debug\netcoreapp3.1\SistemaVenda.genruntimeconfig.cache

@@ -1,4 +1,7 @@
 ﻿using System;
+using SistemaVenda.Entities.Enums;
+using SistemaVenda.Entities;
+using System.Globalization;
 
 namespace SistemaVenda
 {
@@ -6,7 +9,9 @@ namespace SistemaVenda
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
+
+          
         }
     }
 }
