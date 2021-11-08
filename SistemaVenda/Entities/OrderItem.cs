@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace SistemaVenda.Entities
 {
@@ -9,27 +10,18 @@ namespace SistemaVenda.Entities
         public int Quantity { get; set; }
         public double Price { get; set; }
         public Product Product { get; set; }
-        public List<Product> Products { get; set; } = new List<Product>();
+   
 
         public OrderItem()
         {
 
         }
 
-        public OrderItem(int quantity)
+        public OrderItem(int quantity, double price, Product product)
         {
             Quantity = quantity;
-            Price = Product.Price;
-        }
-
-        public void AddProduct(Product product)
-        {
-            Products.Add(product);
-        }
-
-        public void RemoveProduct(Product product)
-        {
-            Products.Remove(product);
+            Price = price;
+            Product = product;
         }
 
         public double SubTotal()
@@ -37,6 +29,11 @@ namespace SistemaVenda.Entities
             return Price * Quantity;
   
         }
-      
+
+        public override string ToString()
+        {
+            return Product.Name + ", $" + Price.ToString("F2", CultureInfo.InvariantCulture) + ", Quantity: " + Quantity + ", Subtotal: $" + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
+        }
+
     }
 }
